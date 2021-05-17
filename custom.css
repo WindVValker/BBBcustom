@@ -1,11 +1,11 @@
 :root {
-  --loader-bg:#000;
+  --loader-bg:#555;
 }
 
 .overlay--1aTlbi {
-  background-color:#000 !important;
+  background-color:#555 !important;
 }
 
 body {
-  background-color:#000 !important;
+  background-color:#555 !important;
 }
